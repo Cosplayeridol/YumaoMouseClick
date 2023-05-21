@@ -2,10 +2,10 @@
 # 鱼猫鼠标连点器
 ## 使用python创作一个简单的鼠标连续点击器
 ### **使用本代码需要以下库：**
-time
-threading
-pynput
-tkinter
+time,
+threading,
+pynput,
+tkinter,
 注意：本代码只能在Windows环境运行。
 
 #### 代码分析
