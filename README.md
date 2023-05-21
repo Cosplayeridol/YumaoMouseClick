@@ -1,5 +1,5 @@
 ![鱼猫鼠标连点器](https://github.com/fukadaeimi/yumaoshubiaodaijiqi/blob/main/yumao.ico)
-# yumaoshubiaodaijiqi
+# 鱼猫鼠标连点器
 ## 使用python创作一个简单的鼠标连续点击器
 ### **使用本代码需要以下库：**
 time
